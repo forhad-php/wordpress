@@ -21,7 +21,6 @@ Note: See the 'wp' file
 ✔ wp core download
 
 ✔ wp config create --dbname=newwp --dbuser=root --dbpass=
-✔ wp core config --dbname=newwp --dbuser=root --dbpass=
 
 To create a database by command line
 ✔ mysql --host=localhost --user=root -p
