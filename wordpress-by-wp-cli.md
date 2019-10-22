@@ -31,3 +31,6 @@ To create a database by command line
 
 Install a plugin with activate:
 ✔ wp plugin install bbpress --activate
+
+wp-cli full command list
+https://developer.wordpress.org/cli/commands/
