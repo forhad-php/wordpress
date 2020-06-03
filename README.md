@@ -1,9 +1,11 @@
 # WordPress Plugin README.md (Only Supported Syntax)
 
-Single link with alt text →
-`[Google](http://google.com/ "Google")`
+### Single link with alt text →
+```
+[Google](http://google.com/ "Google")
+```
 
-Muliple link with defined ID →
+### Muliple link with defined ID →
 ```
 I get 10 times more traffic from [Google][1] than from
 [Yahoo][2] or [MSN][3].
@@ -12,11 +14,13 @@ I get 10 times more traffic from [Google][1] than from
   [2]: http://search.yahoo.com/  "Yahoo Search"
   [3]: http://search.msn.com/    "MSN Search"
 ```
-Heading 2 (H2) →
-`## This is an H2`
 
-Quote →
+### Heading 2 (H2) →
+```
+## This is an H2
+```
 
+### Quote →
 ```
 > This is the first level of quoting.
 >
