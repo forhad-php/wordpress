@@ -1,5 +1,10 @@
 # WordPress Plugin README.md (Only Supported Syntax)
 
+## YouTube Embed →
+```
+[youtube https://www.youtube.com/watch?v=N6GopKZiuGw]
+```
+
 ### Single link with alt text →
 ```
 [Google](http://google.com/ "Google")
